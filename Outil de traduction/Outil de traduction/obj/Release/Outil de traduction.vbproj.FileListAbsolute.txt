@@ -1,0 +1,14 @@
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\bin\Release\Outil de traduction.exe.config
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\bin\Release\Outil de traduction.exe
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\bin\Release\Outil de traduction.pdb
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\bin\Release\Outil de traduction.xml
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil de traduction.vbproj.AssemblyReference.cache
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil_de_traduction.FindForm.resources
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil_de_traduction.HelpBotForm.resources
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil_de_traduction.MainForm.resources
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil_de_traduction.Resources.resources
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil de traduction.vbproj.GenerateResource.cache
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil de traduction.vbproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil de traduction.exe
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil de traduction.xml
+C:\Users\Ghost\source\repos\Outil de traduction\Outil de traduction\obj\Release\Outil de traduction.pdb
